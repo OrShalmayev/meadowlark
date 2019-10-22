@@ -1,2 +1,4 @@
 #ignore packages installed by npm
+.env
+*~
 node_modules
